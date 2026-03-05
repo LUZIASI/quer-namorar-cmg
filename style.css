@@ -1,0 +1,26 @@
+#conteudo{
+    background-color: brown;
+    height: 500px;
+    width: 1000px;
+    align-items: center;
+
+}
+.caixa-estrutura{
+     display: flex;
+    align-items: center;    
+    justify-content: center; 
+   
+}    
+.pedido{
+     display: flex;
+    align-items: center;    
+    justify-content: center; 
+    color: blanchedalmond;
+    background-color: rgb(168, 97, 97) ;
+}  
+.botao{
+    display: flex;
+    align-items: center;    
+    justify-content: center; 
+    height: 1px;
+}
